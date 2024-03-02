@@ -11,7 +11,7 @@ Hospital Management System Overview This is a Hospital Management System impleme
 
 # Prerequisites Before running the Hospital Management System, make sure you have the following installed:
 
-    Python (version 3.x) Required dependencies (install using pip install -r requirements.txt)
+    Python (version 3.x)
 
 # How to Run Clone the repository to your local machine:
 
