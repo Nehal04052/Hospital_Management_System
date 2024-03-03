@@ -13,15 +13,19 @@ Hospital Management System Overview This is a Hospital Management System impleme
 
     Python (version 3.x)
 
-# How to Run Clone the repository to your local machine:
+# How to Run Clone
 
-    git clone https://github.com/your-username/Hospital_Management_System.git Navigate to the project directory:
+The repository to your local machine:
 
+    git clone https://github.com/your-username/Hospital_Management_System.git
+    
+Navigate to the project directory:
+    
     cd Hospital_Management_System Install dependencies:
-
+    
     python main.py
 
-Navigate through the various sections of the system to manage patients, appointments, billing, and personnel.
+Navigate through the various sections of the system to manage patients, billing.
 
 Make use of the intuitive user interface to perform desired actions and efficiently manage hospital-related tasks.
 
