@@ -9,8 +9,9 @@ Hospital Management System Overview This is a Hospital Management System impleme
     
     3. User Authentication: Secure the system by requiring login credentials for access, ensuring that only authorized personnel can use the application.
 
-# Prerequisites Before running the Hospital Management System, make sure you have the following installed:
+# Prerequisites :
 
+    Before running the Hospital Management System, make sure you have the following installed:
     Python (version 3.x)
 
 # How to Run Clone
