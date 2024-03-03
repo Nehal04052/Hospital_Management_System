@@ -1,4 +1,5 @@
 # Hospital_Management_System
+# Overview
 Hospital Management System implemented in Python, with the main functionality encapsulated in the main.py file. This system aims to streamline the administrative and medical processes within a hospital, making it easier for staff to manage patient records, appointments, and other essential tasks.
 
 # Features : 
