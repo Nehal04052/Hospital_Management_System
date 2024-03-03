@@ -37,7 +37,7 @@ Make use of the intuitive user interface to perform desired actions and efficien
     3. Implement your changes.
     4. Submit a pull request.
 
-# Snapshot :
+# Snapshots :
 ![alt text](image.png)
 ![alt text](image-1.png)
 ![alt text](image-2.png)
